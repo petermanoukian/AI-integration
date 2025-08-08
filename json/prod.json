@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "catid": 1,
+    "title": "Smartphone X1",
+    "description": "High-performance smartphone with OLED display.",
+    "image": "https://m.media-amazon.com/images/I/61hTLkamgBL._UF894,1000_QL80_.jpg",
+    "price": 699.99,
+    "demand": 0.85,
+    "rating": 4.6
+  },
+  {
+    "id": 2,
+    "catid": 1,
+    "title": "Wireless Headphones",
+    "description": "Noise-cancelling over-ear headphones.",
+    "image": "https://m.media-amazon.com/images/I/61+Q6Rh3OQL._AC_SL1500_.jpg",
+    "price": 129.99,
+    "demand": 0.75,
+    "rating": 4.3
+  },
+  {
+    "id": 3,
+    "catid": 1,
+    "title": "Laptop Pro 15",
+    "description": "Lightweight laptop with 16GB RAM and 512GB SSD.",
+    "image": "https://img.freepik.com/premium-photo/labtop-computer-laptop-white-background_53876-521399.jpg",
+    "price": 1199.00,
+    "demand": 0.90,
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "catid": 2,
+    "title": "Fitness Tracker",
+    "description": "Track your steps, heart rate, and sleep.",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/701/articles/2017/01/how-much-joining-gym-helps-health-2-jpg-1488906648.jpeg",
+    "price": 59.99,
+    "demand": 0.65,
+    "rating": 4.2
+  },
+  {
+    "id": 5,
+    "catid": 2,
+    "title": "Vitamin D3",
+    "description": "Essential supplement for bone health.",
+    "image": "https://as2.ftcdn.net/v2/jpg/00/99/82/15/1000_F_99821575_nVEHTBXzUnTcLIKN6yOymAWAnFwEybGb.jpg",
+    "price": 14.99,
+    "demand": 0.70,
+    "rating": 4.5
+  },
+  {
+    "id": 6,
+    "catid": 2,
+    "title": "Ergonomic Chair",
+    "description": "Supportive chair for long hours of sitting.",
+    "image": "https://www.eatright.org/-/media/images/eatright-landing-pages/physicalactivitylp_804x482.jpg",
+    "price": 249.00,
+    "demand": 0.60,
+    "rating": 4.1
+  },
+  {
+    "id": 7,
+    "catid": 3,
+    "title": "Online Course: Python",
+    "description": "Learn Python from beginner to advanced.",
+    "image": "https://igate-eg.com/wp-content/uploads/2023/12/Python-Symbol.png",
+    "price": 89.00,
+    "demand": 0.80,
+    "rating": 4.8
+  },
+  {
+    "id": 8,
+    "catid": 3,
+    "title": "Textbook: Calculus I",
+    "description": "Comprehensive guide to introductory calculus.",
+    "image": "https://m.media-amazon.com/images/I/61hTLkamgBL._UF894,1000_QL80_.jpg",
+    "price": 49.99,
+    "demand": 0.50,
+    "rating": 4.0
+  },
+  {
+    "id": 9,
+    "catid": 3,
+    "title": "Notebook Pack",
+    "description": "Set of 5 ruled notebooks for school or work.",
+    "image": "https://itsfoss.com/content/images/wordpress/2019/03/star-labtop-mkiii-2.jpg",
+    "price": 12.50,
+    "demand": 0.40,
+    "rating": 3.9
+  },
+  {
+    "id": 10,
+    "catid": 4,
+    "title": "Budgeting App",
+    "description": "Track expenses and manage your budget.",
+    "image": "https://thebudgeting.app/static/images/app_screenshots_social.png",
+    "price": 4.99,
+    "demand": 0.55,
+    "rating": 4.4
+  },
+  {
+    "id": 11,
+    "catid": 4,
+    "title": "Financial Planning Book",
+    "description": "Strategies for long-term financial success.",
+    "image": "https://d9h54mr6do0h0.cloudfront.net/bookimage/9789355735621_tn.jpg",
+    "price": 24.99,
+    "demand": 0.45,
+    "rating": 4.2
+  },
+  {
+    "id": 12,
+    "catid": 4,
+    "title": "Tax Calculator Tool",
+    "description": "Estimate your taxes with ease.",
+    "image": "https://oneclicklife.com.au/wp-content/uploads/2023/01/tax-calculator-pic-e1679377193311.jpg",
+    "price": 9.99,
+    "demand": 0.50,
+    "rating": 4.0
+  }
+]
